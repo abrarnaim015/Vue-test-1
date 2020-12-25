@@ -1,0 +1,62 @@
+{
+  "habits": [
+    {
+      "id": 1,
+      "name": "Learning Javascript",
+      "description": "Learning Javascript is always fun",
+      "reward": 100,
+      "interval": "daily",
+      "startDate": "04/11/2020"
+    },
+    {
+      "id": 2,
+      "name": "Cleaning Desk",
+      "description": "Cleaning desk to make sure everything clean",
+      "reward": 500,
+      "interval": "daily",
+      "startDate": "15/11/2020"
+    },
+    {
+      "id": 3,
+      "name": "Cleaning Room",
+      "description": "Cleaning room for healthy work",
+      "reward": 800,
+      "interval": "weekly",
+      "startDate": "01/11/2020"
+    },
+    {
+      "id": 4,
+      "name": "Pay Rent",
+      "description": "Pay rent to our landlord",
+      "reward": 1200,
+      "interval": "monthly",
+      "startDate": "01/09/2020"
+    },
+    {
+      "name": "aa",
+      "description": "aa",
+      "reward": "1212",
+      "interval": "Daily",
+      "startDate": "2020-11-05",
+      "id": 5
+    },
+    {
+      "name": "",
+      "description": "",
+      "reward": 0,
+      "interval": "",
+      "startDate": "",
+      "id": 6
+    }
+  ],
+  "testNaim" : [
+    {
+      "name": "naim",
+      "description": "naim",
+      "reward": 0,
+      "interval": "naim",
+      "startDate": "naim",
+      "id": 1
+    }
+  ]
+}
