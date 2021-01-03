@@ -1,0 +1,52 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "name": "Abrar Na'im",
+      "description": "Learning Javascript is always fun",
+      "reward": 90,
+      "status": "Front end developer",
+      "startDate": "04/11/2020"
+    },
+    {
+      "id": 2,
+      "name": "Lukman Yudokusumo",
+      "description": "Learning Javascript is always fun",
+      "reward": 100,
+      "status": "Back end developer",
+      "startDate": "04/11/2020"
+    },
+    {
+      "id": 3,
+      "name": "Jeplind Morico",
+      "description": "Learning Javascript is always fun",
+      "reward": 95,
+      "status": "Full Stuck developer",
+      "startDate": "04/11/2020"
+    },
+    {
+      "id": 4,
+      "name": "Agra Fitrah",
+      "description": "Learning Javascript is always fun",
+      "reward": 90,
+      "status": "Full Stuck developer",
+      "startDate": "04/11/2020"
+    },
+    {
+      "name": "Kopong",
+      "reward": 45,
+      "status": "Front End Developer",
+      "startDate": "11-11-1111",
+      "description": "asdaskjajsba",
+      "id": 5
+    },
+    {
+      "name": "Yuke Violli",
+      "reward": 27,
+      "status": "Front End Developer",
+      "startDate": "12-12-2021",
+      "description": "mmmmm",
+      "id": 6
+    }
+  ]
+}
