@@ -2,6 +2,9 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import TestPage from '../views/Test.vue'
+import Profile from '../views/profile.vue'
+import AddProfile from '../views/AddProfile.vue'
+import EditProfile from '../views/EditProfile.vue'
 
 Vue.use(VueRouter)
 
@@ -23,6 +26,21 @@ const routes = [
     path: '/test',
     name: 'TestPage',
     component: TestPage
+  },
+  {
+    path: '/profile',
+    name: 'Profile',
+    component: Profile
+  },
+  {
+    path: '/addprofile',
+    name: 'AddProfile',
+    component: AddProfile
+  },
+  {
+    path: '/editProfile',
+    name: 'EditProfile',
+    component: EditProfile
   }
 ]
 
